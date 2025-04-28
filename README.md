@@ -1,16 +1,49 @@
-# flutter_app
+# AniXart
 
-A new Flutter project.
+Мобильное приложение для просмотра аниме, созданное с использованием Flutter.
 
-## Getting Started
+## Особенности
 
-This project is a starting point for a Flutter application.
+- Просмотр каталога аниме
+- Поиск и фильтрация
+- Система рекомендаций
+- Просмотр серий
+- Комментарии и оценки
+- Профиль пользователя
+- Поддержка iOS и Android
 
-A few resources to get you started if this is your first Flutter project:
+## Технологии
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dio для работы с API
+- Provider для управления состоянием
+- Flutter Secure Storage для хранения данных
+- Chewie для воспроизведения видео
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Установка
+
+1. Убедитесь, что у вас установлен Flutter SDK
+2. Клонируйте репозиторий:
+```bash
+git clone https://github.com/kharkilirov1/flutteranixart.git
+```
+3. Перейдите в директорию проекта:
+```bash
+cd flutteranixart
+```
+4. Установите зависимости:
+```bash
+flutter pub get
+```
+5. Запустите приложение:
+```bash
+flutter run
+```
+
+## Скриншоты
+
+(Будут добавлены позже)
+
+## Лицензия
+
+MIT License
